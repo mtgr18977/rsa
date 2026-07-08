@@ -17,28 +17,28 @@ Basta editar essas linhas e recompilar para experimentar outros casos.
 
 INDICE
 ------
-exe-1   MDC e probabilidade de coprimalidade (tende a 6/pi^2)
-exe-2   Numeros altamente compostos < r
-exe-3   Fatoracao pelo algoritmo de Fermat
-exe-4   Frequencia de primos 4n+1 vs 4n+3
-exe-5   Menor x com pi1(x) > pi3(x)
-exe-6   Potenciacao modular a^k mod n
-exe-7   Inverso em Zp via a^(p-2)
-exe-8   Inverso modular e a equacao ax = b (mod p)
-exe-9   Raizes quadradas modulo p = 4k+3
-exe-10  Primos de Wieferich: a^(p-1) = 1 (mod p^2)
-exe-11  Pseudoprimos para as bases 2 e 3
-exe-12  Numeros de Carmichael com d fatores
-exe-13  Menor pseudoprimo forte (teste de Miller)
-exe-14  Pseudoprimos da forma p^2 (base 2)
-exe-15  Raizes quadradas modulo n = p*q (via TCR)
-exe-16  Pseudoprimos p^2 - versao melhorada
-exe-17  Funcao phi de Euler e phi(k) = phi(k+1)
-exe-18  Totientes
-exe-19  Fatores de numeros de Mersenne
-exe-20  Qual numero de Fermat e divisivel por q
-exe-21  Teste de Pepin (numeros de Fermat)
-exe-22  Teste de primalidade via (n-1)! (Wilson)
+- exe-1   MDC e probabilidade de coprimalidade (tende a 6/pi^2)
+- exe-2   Numeros altamente compostos < r
+- exe-3   Fatoracao pelo algoritmo de Fermat
+- exe-4   Frequencia de primos 4n+1 vs 4n+3
+- exe-5   Menor x com pi1(x) > pi3(x)
+- exe-6   Potenciacao modular a^k mod n
+- exe-7   Inverso em Zp via a^(p-2)
+- exe-8   Inverso modular e a equacao ax = b (mod p)
+- exe-9   Raizes quadradas modulo p = 4k+3
+- exe-10  Primos de Wieferich: a^(p-1) = 1 (mod p^2)
+- exe-11  Pseudoprimos para as bases 2 e 3
+- exe-12  Numeros de Carmichael com d fatores
+- exe-13  Menor pseudoprimo forte (teste de Miller)
+- exe-14  Pseudoprimos da forma p^2 (base 2)
+- exe-15  Raizes quadradas modulo n = p*q (via TCR)
+- exe-16  Pseudoprimos p^2 - versao melhorada
+- exe-17  Funcao phi de Euler e phi(k) = phi(k+1)
+- exe-18  Totientes
+- exe-19  Fatores de numeros de Mersenne
+- exe-20  Qual numero de Fermat e divisivel por q
+- exe-21  Teste de Pepin (numeros de Fermat)
+- exe-22  Teste de primalidade via (n-1)! (Wilson)
 
 NOTAS TECNICAS
 --------------
